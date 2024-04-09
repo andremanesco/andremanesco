@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### About Me 😎
+Hello everyone, I'm André, a brazilian guy graduated in Mechanical Engineering with MBA in Data Science and Analytics.
+Now I'm learning more in programming, like JavaScript and some technologies as React and JodeJS.
+
+### 📫 How to reach me
+You can find me sending an email to andrem_araujo@outlook.com
+
 <!--
 **andremanesco/andremanesco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
